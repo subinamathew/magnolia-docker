@@ -1,0 +1,2 @@
+From line number 135 of the file 'catalina.properties', the jar are the default jar files included in Magnolia Community edition. See the link for more details.
+see https://wiki.magnolia-cms.com/display/WIKI/Apache+Tomcat+optimization+for+Magnolia+CMS
