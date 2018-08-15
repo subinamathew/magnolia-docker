@@ -6,7 +6,7 @@ ENV CATALINA_TMPDIR /usr/local/tomcat/temp
  
 LABEL maintainer="Subin Mathew https://github.com/subinamathew/magnolia-docker"
 
-RUN apt-get update && apt-get dist-upgrade
+RUN apt-get update && apt-get -y dist-upgrade
 
 RUN apt-get install -qq -y mysql-client
 
